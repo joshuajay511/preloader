@@ -33,7 +33,7 @@ body {
   border-radius: 5px;
 }
 
-.loading-bar-back {
+.loading-bar-front {
   position: absolute;
   height: 8px;
   background-color: orangered;
